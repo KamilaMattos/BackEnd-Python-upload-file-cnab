@@ -1,0 +1,6 @@
+venv
+.vscode
+pycache
+db.sqlite3
+.env
+upload
