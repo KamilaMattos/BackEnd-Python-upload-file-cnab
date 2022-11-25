@@ -12,7 +12,7 @@ Projeto de uma interface web que aceita upload do arquivo CNAB cpm formato .txt,
 #### Clone o projeto:
 
 ```bash
-  git clone git@github.com:KamilaMattos/BackEnd-Python-upload-file-cnab.git
+  git clone git@github.com:KamilaMattos/cnab-txt-py.git
 ```
 
 #### Entre no diretório do projeto:
